@@ -1,0 +1,19 @@
+﻿  stdafx.cpp
+  Bitmap.cpp
+  drawable.cpp
+  glslprogram.cpp
+C:\year2\shadersca2\TeapotAD\TeapotAD\Bitmap.cpp(26,10): fatal error C1083: Cannot open include file: 'stb_image.h': No such file or directory
+  glutils.cpp
+  gl_core_4_3.cpp
+  QuatCamera.cpp
+C:\year2\shadersca2\TeapotAD\TeapotAD\glslprogram.h(13,10): fatal error C1083: Cannot open include file: 'glm.hpp': No such file or directory
+  scenediffuse.cpp
+C:\year2\shadersca2\TeapotAD\TeapotAD\QuatCamera.h(4,10): fatal error C1083: Cannot open include file: 'glm.hpp': No such file or directory
+  TeapotAD.cpp
+C:\year2\shadersca2\TeapotAD\TeapotAD\scenediffuse.h(6,10): fatal error C1083: Cannot open include file: 'glfw3.h': No such file or directory
+  Texture.cpp
+  vboplane.cpp
+  vboteapot.cpp
+C:\year2\shadersca2\TeapotAD\TeapotAD\TeapotAD.cpp(9,10): fatal error C1083: Cannot open include file: 'glfw3.h': No such file or directory
+  Generating Code...
+C:\year2\shadersca2\TeapotAD\TeapotAD\vboteapot.h(5,10): fatal error C1083: Cannot open include file: 'glm.hpp': No such file or directory
